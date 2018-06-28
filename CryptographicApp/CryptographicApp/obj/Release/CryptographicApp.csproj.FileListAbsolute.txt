@@ -1,0 +1,15 @@
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\bin\Release\CryptographicApp.exe.config
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\bin\Release\CryptographicApp.exe
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\bin\Release\CryptographicApp.pdb
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Release\CryptographicApp.CryptoApp.resources
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Release\CryptographicApp.Properties.Resources.resources
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Release\CryptographicApp.csproj.GenerateResource.cache
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Release\CryptographicApp.csproj.CoreCompileInputs.cache
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Release\CryptographicApp.exe
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Release\CryptographicApp.pdb
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Release\CryptographicApp.csprojAssemblyReference.cache
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\bin\Release\CryptographicApp.exe.manifest
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\bin\Release\CryptographicApp.application
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Release\CryptographicApp.TrustInfo.xml
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Release\CryptographicApp.exe.manifest
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Release\CryptographicApp.application

@@ -1,0 +1,10 @@
+C:\Users\buhli\source\repos\TRexEndlessRunner\TRexEndlessRunner\bin\Release\TRexEndlessRunner.exe.config
+C:\Users\buhli\source\repos\TRexEndlessRunner\TRexEndlessRunner\bin\Release\TRexEndlessRunner.exe
+C:\Users\buhli\source\repos\TRexEndlessRunner\TRexEndlessRunner\bin\Release\TRexEndlessRunner.pdb
+C:\Users\buhli\source\repos\TRexEndlessRunner\TRexEndlessRunner\obj\Release\TRexEndlessRunner.csprojAssemblyReference.cache
+C:\Users\buhli\source\repos\TRexEndlessRunner\TRexEndlessRunner\obj\Release\TRexEndlessRunner.TRexEndlessRunner.resources
+C:\Users\buhli\source\repos\TRexEndlessRunner\TRexEndlessRunner\obj\Release\TRexEndlessRunner.Properties.Resources.resources
+C:\Users\buhli\source\repos\TRexEndlessRunner\TRexEndlessRunner\obj\Release\TRexEndlessRunner.csproj.GenerateResource.cache
+C:\Users\buhli\source\repos\TRexEndlessRunner\TRexEndlessRunner\obj\Release\TRexEndlessRunner.csproj.CoreCompileInputs.cache
+C:\Users\buhli\source\repos\TRexEndlessRunner\TRexEndlessRunner\obj\Release\TRexEndlessRunner.exe
+C:\Users\buhli\source\repos\TRexEndlessRunner\TRexEndlessRunner\obj\Release\TRexEndlessRunner.pdb

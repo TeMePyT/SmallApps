@@ -1,0 +1,10 @@
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Debug\CryptographicApp.csprojAssemblyReference.cache
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Debug\CryptographicApp.CryptoApp.resources
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Debug\CryptographicApp.Properties.Resources.resources
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Debug\CryptographicApp.csproj.GenerateResource.cache
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Debug\CryptographicApp.csproj.CoreCompileInputs.cache
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\bin\Debug\CryptographicApp.exe.config
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\bin\Debug\CryptographicApp.exe
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\bin\Debug\CryptographicApp.pdb
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Debug\CryptographicApp.exe
+C:\Users\buhli\source\repos\CryptographicApp\CryptographicApp\obj\Debug\CryptographicApp.pdb
