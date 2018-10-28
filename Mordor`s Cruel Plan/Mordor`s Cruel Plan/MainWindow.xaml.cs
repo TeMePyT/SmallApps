@@ -22,6 +22,7 @@ namespace Mordor_s_Cruel_Plan
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            gandalf = new Gandalf();
             gandalf.Eat(str.Split().Where(fn => fn != String.Empty).Select(fn => FoodFactory.GetFood(fn)));
             Mood.Content = gandalf;
         }
@@ -31,11 +32,6 @@ namespace Mordor_s_Cruel_Plan
             str = Input.Text;
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            Input.Clear();
-            Mood.Content = "Mood";
-            gandalf = new Gandalf();
-        }
+      
     }
 }

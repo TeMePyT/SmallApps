@@ -14,8 +14,7 @@
         </Grid.ColumnDefinitions>
         <TextBox x:Name="Input" HorizontalAlignment="Left" Height="190" Margin="46,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="261" Grid.ColumnSpan="2" TextChanged="Input_TextChanged"/>
         <Button Content="Calculate Mood" HorizontalAlignment="Left" Margin="23.184,183,0,0" VerticalAlignment="Top" Width="129" Height="43" RenderTransformOrigin="0.398,0.466" Grid.Column="2" Click="Button_Click"/>
-        <Label x:Name="Mood" Content="Mood" HorizontalAlignment="Left" Margin="261.184,183,0,0" VerticalAlignment="Top" Height="72" Width="173" FontSize="24" Grid.Column="2"/>
-        <Button Content="Clear" Grid.Column="2" HorizontalAlignment="Left" Margin="23.184,245,0,0" VerticalAlignment="Top" Width="129" Height="43" Click="Button_Click_1"/>
+        <Label x:Name="Mood" Content="Mood" HorizontalAlignment="Left" Margin="256,154,0,0" VerticalAlignment="Top" Height="72" Width="173" FontSize="24" Grid.Column="2"/>
 
     </Grid>
 </Window>
