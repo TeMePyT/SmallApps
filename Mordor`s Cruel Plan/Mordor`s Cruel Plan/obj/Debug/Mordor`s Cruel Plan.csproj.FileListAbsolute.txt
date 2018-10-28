@@ -1,0 +1,18 @@
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\Mordor`s Cruel Plan.csprojAssemblyReference.cache
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\MainWindow.g.cs
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\App.g.cs
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\Mordor`s Cruel Plan_MarkupCompile.cache
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\Mordor`s Cruel Plan_MarkupCompile.lref
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\bin\Debug\Mordor`s Cruel Plan.exe.config
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\bin\Debug\Mordor`s Cruel Plan.exe
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\bin\Debug\Mordor`s Cruel Plan.pdb
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\bin\Debug\MoodCalculatorLibrary.dll
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\bin\Debug\MoodCalculatorLibrary.pdb
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\MainWindow.baml
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\Mordor`s Cruel Plan.g.resources
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\Mordor_s_Cruel_Plan.Properties.Resources.resources
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\Mordor`s Cruel Plan.csproj.GenerateResource.cache
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\Mordor`s Cruel Plan.csproj.CoreCompileInputs.cache
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\Mordor`s Cruel Plan.csproj.CopyComplete
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\Mordor`s Cruel Plan.exe
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\Mordor`s Cruel Plan\obj\Debug\Mordor`s Cruel Plan.pdb

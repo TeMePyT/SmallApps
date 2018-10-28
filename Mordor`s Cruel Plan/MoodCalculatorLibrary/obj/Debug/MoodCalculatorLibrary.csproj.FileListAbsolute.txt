@@ -1,0 +1,6 @@
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\MoodCalculatorLibrary\obj\Debug\MoodCalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\MoodCalculatorLibrary\obj\Debug\MoodCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\MoodCalculatorLibrary\bin\Debug\MoodCalculatorLibrary.dll
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\MoodCalculatorLibrary\bin\Debug\MoodCalculatorLibrary.pdb
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\MoodCalculatorLibrary\obj\Debug\MoodCalculatorLibrary.dll
+C:\Users\buhli\source\repos\Mordor`s Cruel Plan\MoodCalculatorLibrary\obj\Debug\MoodCalculatorLibrary.pdb

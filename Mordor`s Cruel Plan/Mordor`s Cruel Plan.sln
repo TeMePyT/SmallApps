@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mordor`s Cruel Plan", "Mordor`s Cruel Plan\Mordor`s Cruel Plan.csproj", "{26ABCC95-A360-4118-B0AD-0D9C047EEC39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodCalculatorLibrary", "MoodCalculatorLibrary\MoodCalculatorLibrary.csproj", "{B975A87C-FD3C-45F5-ACA6-C804044DB647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26ABCC95-A360-4118-B0AD-0D9C047EEC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26ABCC95-A360-4118-B0AD-0D9C047EEC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26ABCC95-A360-4118-B0AD-0D9C047EEC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26ABCC95-A360-4118-B0AD-0D9C047EEC39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B975A87C-FD3C-45F5-ACA6-C804044DB647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B975A87C-FD3C-45F5-ACA6-C804044DB647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B975A87C-FD3C-45F5-ACA6-C804044DB647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B975A87C-FD3C-45F5-ACA6-C804044DB647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AEFBBDB-38B4-4F51-9BA1-51E311F72782}
+	EndGlobalSection
+EndGlobal
